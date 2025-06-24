@@ -7,4 +7,10 @@
 
 # 목차
  - [수학](https://github.com/Soundsmell/StudyforTest/blob/main/Math.md)
+ - [국어](https://github.com/Soundsmell/StudyforTest/blob/main/Korean.md)
+ - [영어](https://github.com/Soundsmell/StudyforTest/blob/main/English.md)
+ - [과학](https://github.com/Soundsmell/StudyforTest/blob/main/Science.md)
+ - [한문](https://github.com/Soundsmell/StudyforTest/blob/main/Chinese.md)
+ - [도덕](https://github.com/Soundsmell/StudyforTest/blob/main/Doduck.md)
+ - [역사](https://github.com/Soundsmell/StudyforTest/blob/main/History.md)
 
